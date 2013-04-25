@@ -1,7 +1,7 @@
 pyCocomo
 ========
 
-** Simple COCOMO II Analysis function in Python **
+**Simple COCOMO II Analysis function in Python**
 
 ## Usage ##
 
